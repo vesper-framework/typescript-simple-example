@@ -1,4 +1,4 @@
-import {Controller, Query, Mutation} from "graphstack";
+import {Controller, Mutation, Query} from "vesper";
 import {EntityManager} from "typeorm";
 import {Post} from "../entity/Post";
 
